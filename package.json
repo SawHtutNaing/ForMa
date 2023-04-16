@@ -1,7 +1,6 @@
 {
   "name": "ma",
   "version": "1.0.0",
-  "description": "",
   "main": "aos.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "countup.js": "^2.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SawHtutNaing/ForMa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SawHtutNaing/ForMa/issues"
+  },
+  "homepage": "https://github.com/SawHtutNaing/ForMa#readme",
+  "description": ""
 }
